@@ -1,0 +1,3 @@
+[submodule "js/lib/gladius"]
+	path = js/lib/gladius
+	url = git://github.com/gladiusjs/gladius.git
